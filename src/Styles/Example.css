@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.dl-flex{
+    display: flex;
+    flex-direction: column;
+}
